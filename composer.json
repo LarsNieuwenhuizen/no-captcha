@@ -1,12 +1,16 @@
 {
-    "name": "anhskohbo/no-captcha",
-    "description": "No CAPTCHA reCAPTCHA For Laravel.",
+    "name": "larsnieuwenhuizen/no-captcha",
+    "description": "FORKED from https://github.com/anhskohbo/no-captcha | No CAPTCHA reCAPTCHA For Laravel.",
     "keywords": ["recaptcha", "no-captcha", "captcha", "laravel", "laravel4", "laravel5"],
     "license": "MIT",
     "authors": [
         {
             "name": "anhskohbo",
             "email": "anhskohbo@gmail.com"
+        },
+        {
+            "name": "Lars Nieuwenhuizen",
+            "email": "lars.nieuwenhuizen@me.com"
         }
     ],
     "require": {
